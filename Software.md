@@ -25,7 +25,7 @@
 
 ### 【2】自适应hsv阈值（或者选框，提供[空项目](https://github.com/ZJUDancer/color-segmentation-example)）
 
-![1563196088752](/home/daiz/Desktop/assets/1563196088752.png)
+<img src="./assets/1563196088752.png"/>
 
 目前的检测需设定hsv通道下的阈值，在比赛（换场地、光线变化等）调试时十分繁杂。
 
