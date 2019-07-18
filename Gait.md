@@ -2,8 +2,8 @@
 
 步态动作规划是仿人机器人完成双足行走的必要环节，主要需要机器人学中的运动学和动力学的相关知识，建议参考以下资料：
 
-- [仿人机器人（中文版）](./reference/Gait/仿人机器人+（日）梶田秀司编著；管贻生译 \(1\).pdf)
-- [关节型机器人理论（PPT）](./reference/Gait/关节型机器人.pdf)
+- [仿人机器人（中文版）](https://github.com/ZJUDancer/Joinus-2019/releases/download/v1.0.0/gait_ebooks.zip)
+- [关节型机器人理论（PPT）](https://github.com/ZJUDancer/Joinus-2019/releases/download/v1.0.0/gait_ebooks.zip)
 - [ROS教程](http://wiki.ros.org/cn)
 
 ### 机器人单腿的正、逆运动学解算与ROS通讯实践
